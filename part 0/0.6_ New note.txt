@@ -1,0 +1,8 @@
+title 0.6: New note
+
+note over browser:
+spa.js fetch data and prevent the defualt handling of form submit
+spa.js creates a new note, adds it to the notes list
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
